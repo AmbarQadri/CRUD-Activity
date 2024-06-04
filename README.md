@@ -20,11 +20,11 @@ The CRUD Activity is a full-stack web application built using the MERN (MongoDB,
 #### Installation:
 1. Clone the repository to your local machine:
    ```
-   git clone <repository-url>
+   git clone https://github.com/AmbarQadri/CRUD-Activity.git
    ```
 2. Navigate to the project directory:
    ```
-   cd crud-activity
+   cd Crud-Activity
    ```
 3. Install dependencies:
    ```
