@@ -1,4 +1,4 @@
-CRUD Activity
+# CRUD Activity
 
 The CRUD Activity is a full-stack web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. Leveraging the power of ViteJS for rapid development, this project offers a seamless experience for creating, reading, updating, and deleting activities with ease.
 
